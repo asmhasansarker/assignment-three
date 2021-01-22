@@ -66,7 +66,7 @@ function hotelCost(days){
     else if(days <= 10)
     {
         totalCost = days * 100;
-        return totalCost;
+        
     }
     else if(days <= 20)
     {
